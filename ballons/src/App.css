@@ -1,0 +1,24 @@
+.App{
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  display: flex;
+
+}
+#Child{
+  display: flex;
+  flex-direction: column;
+}
+#Mother{
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  flex-wrap: wrap;
+  
+}
+#Mother>div{
+padding-bottom: 50em;
+}
+#Mother>h1{
+  width: 100%;
+}
