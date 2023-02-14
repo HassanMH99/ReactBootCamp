@@ -1,0 +1,8 @@
+.App{
+  width: 100vw;
+  height: 100vh;
+}
+.App>div{
+  width: 50vw;
+  height: 50vh;
+}
