@@ -1,0 +1,11 @@
+.App{
+  width: 100vw;
+  height: 100vh;
+  background-color: antiquewhite;
+}
+#color{
+  width: 10em;
+  height: 10em;
+  display: hidden;
+
+}
