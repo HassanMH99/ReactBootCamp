@@ -1,0 +1,40 @@
+#Header-nav{
+  display: flex;
+  gap: 1em;
+  text-decoration: none;
+  color: black;
+  list-style: none;
+  justify-content: center;
+}
+#Header-nav>a{
+  text-decoration: none;
+  color: black;
+  font-size: large;
+}
+#HomePage{
+  display: flex;
+  justify-content: center;
+}
+#Products{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  width: 100%;
+}
+.list-product{
+  display: flex;
+ gap: 1em;
+ 
+}
+.ShowProduct{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  border: solid 2px black;
+
+}
